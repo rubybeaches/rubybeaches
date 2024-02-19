@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 
 ### Want to see what i'm working on?
 ## Write Every Day
-Write Every Day is a product that facilitates a regular, health-boosting writing habit. It promotes feelings of happiness, positive moods, keeps you sharp, and even helps deal with past trauma. Know yourself better and unleash your creativity.
-<a href="https://writeeveryday.app/"><img width="793" alt="writepage" src="https://github.com/rubybeaches/rubybeaches/assets/93539953/a43c9f42-1eed-4f7d-b90a-9162324476b5"></a>
+Write Every Day is a website that facilitates a regular, health-boosting writing habit. It promotes feelings of happiness, positive moods, and keeps you sharp. Know yourself better and unleash your creativity.
+
+<a href="https://writeeveryday.app/" target="_blank"><img width="793" alt="writepage" src="https://github.com/rubybeaches/rubybeaches/assets/93539953/a43c9f42-1eed-4f7d-b90a-9162324476b5"></a>
+
+## Dragon Tamer - React Jam
+My entry to the <a href="reactjam.com" target=_blank">Fall React Jam</a>, Multiplayer challenge! React Jam is an online event where React developers come together to create games in 10 days. Build amazing games using React regardless of your experience level. Unleash your creativity and embark on an exciting journey of game development!
+<a href="https://fall-2023.reactjam.com/games/fall-2023-dragon-tamer" target="_blank">Play a demo here!</a>
