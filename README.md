@@ -26,6 +26,6 @@ My entry to the <a href="reactjam.com" target="_blank">Fall React Jam</a>, Multi
 <a href="https://fall-2023.reactjam.com/games/fall-2023-dragon-tamer" target="_blank"><img width="350" alt="Dragon Tamer" src="https://github.com/rubybeaches/rubybeaches/assets/93539953/7a266d6d-b271-416e-9af3-7e1dfd325407"></a>
 
 ## Priority Companion - under development
-A useful system to apply your unqiue gifts, skills, and talents effecitvely as you participate in your daily roles. Partner habits and initiatives to facilitate actions that provide personal fufillment and rewards consistent with your values, goals, and lifestyle.
+A useful system to apply your unqiue gifts, skills, and talents effecitvely as you participate in your daily roles. Partner habits and initiatives to facilitate actions that provide personal fufillment and rewards consistent with your values, goals, and lifestyle. This project is the result of user research and interviews with dozens of time managment coaches and collaborators.
 
 <a href="https://priority-companion.vercel.app/" target="_blank"><img width="550" alt="Priority Companion" src="https://github.com/rubybeaches/rubybeaches/assets/93539953/f403229c-7220-451b-a348-bd5fc1d44f01"></a>
