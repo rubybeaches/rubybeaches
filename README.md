@@ -29,3 +29,8 @@ My entry to the <a href="reactjam.com" target="_blank">Fall React Jam</a>, Multi
 A useful system to apply your unqiue gifts, skills, and talents effecitvely as you participate in your daily roles. Partner habits and initiatives to facilitate actions that provide personal fufillment and rewards consistent with your values, goals, and lifestyle. This project is the result of user research and interviews with dozens of time managment coaches and collaborators.
 
 <a href="https://priority-companion.vercel.app/" target="_blank"><img width="550" alt="Priority Companion" src="https://github.com/rubybeaches/rubybeaches/assets/93539953/f403229c-7220-451b-a348-bd5fc1d44f01"></a>
+
+## The Ultimate Budget - drafting design
+Not your typical budget portfolio project. I am a personal follower of FIRE, and have been budgeting for nearly ten years, since I graduated college and entered the workforece. Using my decade of personal experience, and several test runs and templates in excel and google sheets, I applied my background in User experience to formulate the most comprehensive budgeting application. It includes a budget calculator using demographic percentages for the US based on income, default template categories and a system for implementing recurring expenses and income, as well as in budget links to savings goals for emergency funds and a yearly expenses likecar insurance baked into montly and weekly expense planning...and more!
+
+![BudgetDesigns](https://github.com/rubybeaches/rubybeaches/assets/93539953/1cb84ab3-1e1e-4a1d-8600-09615a3e0e99)
