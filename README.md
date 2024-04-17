@@ -1,4 +1,5 @@
 ### Welcome! 👋
+![MVO](https://github.com/rubybeaches/rubybeaches/assets/93539953/2e296560-b2e2-413d-ba63-6e1cba5c72b5)
 
 <!--
 Here are some ideas to get you started:
