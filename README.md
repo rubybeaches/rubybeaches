@@ -1,6 +1,5 @@
 ### Welcome! 👋
-<img src="https://github.com/rubybeaches/rubybeaches/assets/93539953/464b47fc-3204-44d4-8207-6134306a3acd" />
-
+<img src="https://github.com/rubybeaches/rubybeaches/assets/93539953/daf02593-4f94-48dd-9acf-c62b384a1b83" />
 <!--
 Here are some ideas to get you started:
 
