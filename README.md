@@ -1,6 +1,4 @@
 ### Welcome! 👋
-<img src="https://github.com/rubybeaches/rubybeaches/assets/93539953/daf02593-4f94-48dd-9acf-c62b384a1b83" />
-
 <!--
 Here are some ideas to get you started:
 
@@ -37,3 +35,7 @@ A useful system to apply your unqiue gifts, skills, and talents effecitvely as y
 Not your typical budget portfolio project. I am a personal follower of FIRE, and have been budgeting for nearly ten years, since I graduated college and entered the workforce. Using my decade of personal experience, and several test runs and templates in excel and google sheets, I applied my background in user experience to formulate the most comprehensive budgeting application. It includes a budget calculator using demographic percentages for the US based on income, default template categories, a system for implementing recurring expenses and income, as well as in budget connections to savings goals such as for an emergency fund or yearly expenses like car insurance - baked into monthly and weekly expense planning...and more!
 
 <img width="750" alt="Budget Design" src="https://github.com/rubybeaches/rubybeaches/assets/93539953/1cb84ab3-1e1e-4a1d-8600-09615a3e0e99">
+
+
+## More About Me
+<img src="https://github.com/rubybeaches/rubybeaches/assets/93539953/daf02593-4f94-48dd-9acf-c62b384a1b83" />
