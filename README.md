@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ### Want to see what i'm working on?
-All projects version controlled in github privately, demos available.
+Some projects are version controlled on github privately, demos available.
 
 ## Write Every Day
 Write Every Day is a website that facilitates a regular, health-boosting writing habit. It promotes feelings of happiness, positive moods, and keeps you sharp. Know yourself better and unleash your creativity. [Vist the site here](https://writeeveryday.app/)
