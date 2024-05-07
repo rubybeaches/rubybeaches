@@ -38,4 +38,4 @@ Not your typical budget portfolio project. I am a personal follower of FIRE, and
 
 
 ## More About Me
-<img src="https://github.com/rubybeaches/rubybeaches/assets/93539953/daf02593-4f94-48dd-9acf-c62b384a1b83" />
+<img src="https://github.com/rubybeaches/rubybeaches/assets/93539953/daf02593-4f94-48dd-9acf-c62b384a1b83" width="700px" />
