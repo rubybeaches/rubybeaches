@@ -37,5 +37,5 @@ A useful system to apply your unqiue gifts, skills, and talents effecitvely as y
 <a href="https://priority-companion.vercel.app/" target="_blank"><img width="550" alt="Priority Companion" src="https://github.com/rubybeaches/rubybeaches/assets/93539953/f403229c-7220-451b-a348-bd5fc1d44f01"></a>
 
 
-## More About Me
-<img src="https://github.com/rubybeaches/rubybeaches/assets/93539953/daf02593-4f94-48dd-9acf-c62b384a1b83" width="700px" />
+<!--## More About Me
+<img src="https://github.com/rubybeaches/rubybeaches/assets/93539953/daf02593-4f94-48dd-9acf-c62b384a1b83" width="700px" /> -->
