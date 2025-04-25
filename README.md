@@ -18,7 +18,7 @@ Some projects are version controlled on github privately, demos available.
 ## Write Every Day
 Write Every Day is a website that facilitates a regular, health-boosting writing habit. It promotes feelings of happiness, positive moods, and keeps you sharp. Know yourself better and unleash your creativity. [Vist the site here](https://writeeveryday.app/)
 
-<a href="https://writeeveryday.app/" target="_blank"><img width="750" alt="WriteEveryDay" src="https://github.com/user-attachments/assets/0cc028f9-d177-4259-8e3e-3bce7e992bad"></a>
+<a href="https://writeeveryday.app/" target="_blank"><img width="750" alt="WriteEveryDay" src="https://github.com/user-attachments/assets/828ee3cd-000c-4209-adb5-f5f3e5cbb7d8"></a>
 
 ## Dragon Tamer - React Jam
 My entry to the <a href="reactjam.com" target="_blank">Fall React Jam</a>, Multiplayer challenge! React Jam is an online event where React developers come together to create games in 10 days. Build amazing games using React regardless of your experience level. Unleash your creativity and embark on an exciting journey of game development!
